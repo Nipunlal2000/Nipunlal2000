@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @Nipunlal2000
-- 👀 I’m interested in designing photos, posters and webpages
-- 🌱 I’m currently learning Python Django framework along with HTML, CSS , Javascript.
-- 📫 Follow my LinkedIn: https://www.linkedin.com/in/nipunlalrc/
+# Hi there! 👋 I'm Nipun Lal RC
 
-<!---
-Nipunlal2000/Nipunlal2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a civil engineering graduate turned web developer with a passion for technology and all things code. Currently, I'm diving deep into the world of web development, exploring various technologies, and building cool projects.
+
+## 🚀 Skills
+
+- **Frontend Development**:
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+
+- **Backend Development**:
+  - Python (especially with Django framework)
+  - REST APIs
+
+- **Databases**:
+  - MySQL
+  - PostgreSQL
+  - SQLite
+
+- **Other Interests**:
+  - Exploring new tech stacks
+  - Solving coding challenges
+  - Learning about software architecture
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/nipunlalrc/
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about anything interesting! 😊
