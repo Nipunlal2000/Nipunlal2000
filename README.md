@@ -18,6 +18,12 @@ I'm a civil engineering graduate turned web developer with a passion for technol
   - MySQL
   - PostgreSQL
   - SQLite
+  - MongoDB
+ 
+- **Libraries**:
+  - Numpy
+  - BeautifulSoup
+  - Pandas
 
 - **Other Interests**:
   - Exploring new tech stacks
