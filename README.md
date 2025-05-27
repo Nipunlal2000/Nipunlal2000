@@ -31,6 +31,7 @@ I’m a passionate **Python Full Stack Developer** who transitioned from civil e
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
 - ![Django REST Framework](https://img.shields.io/badge/-DRF-red?logo=django)
 - ![Redis](https://img.shields.io/badge/-Redis-D82C20?logo=redis)
+- [![Celery](https://img.shields.io/badge/Celery-5.3+-brightgreen)](https://docs.celeryq.dev/)
 
 ### 🔹 Frontend
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
