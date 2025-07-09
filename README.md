@@ -67,7 +67,7 @@ I’m a passionate **Python Full Stack Developer** who transitioned from civil e
 
 ## 🚀 Projects
 
-### 🔸 [📦 BookHub - E-commerce for Books](https://github.com/yourusername/bookhub)
+### 🔸 [📦 BookHub - E-commerce for Books](https://github.com/Nipunlal2000/bookhub)
 > A Django-based e-commerce platform with CRUD features and Stripe integration.
 
 - Admin & User dashboards
@@ -76,7 +76,7 @@ I’m a passionate **Python Full Stack Developer** who transitioned from civil e
 
 ---
 
-### 🔸 [🎬 Movie Box - Movie Recommendation App](https://github.com/yourusername/movie-box)
+### 🔸 [🎬 Movie Box - Movie Recommendation App](https://github.com/Nipunlal2000/movie-box)
 > Share, comment, and favorite movies. Built with Django.
 
 - Add & review movies
@@ -85,7 +85,7 @@ I’m a passionate **Python Full Stack Developer** who transitioned from civil e
 
 ---
 
-### 🔸 [📰 Blog API with Redis Caching](https://github.com/yourusername/drf-blog-api-redis-cache)
+### 🔸 [📰 Blog API with Redis Caching](https://github.com/Nipunlal2000/drf-blog-api-redis-cache)
 > Fast blog API built using Django REST Framework and Redis.
 
 - Caching with `django-redis`
